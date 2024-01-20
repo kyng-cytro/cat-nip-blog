@@ -5,7 +5,7 @@
       <Icon name="solar:cat-broken" height="25" width="25"/>
       <h2 class="font-semibold text-lg tracking-tighter leading-none">CAT NIP</h2>
     </NuxtLink>
-    <NuxtLink to="#">
+    <NuxtLink target="_blank" to="https://github.com/kyng-cytro/cat-nip-blog" >
       <Icon name="uil:github" height="25" width="25"/>
     </NuxtLink>
   </div>
