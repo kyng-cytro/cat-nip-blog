@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-mantle p-2">
+  <footer class="bg-crust p-2 text-text">
     <p class="text-sm font-light">Copyright © 2024 cytro</p>
   </footer>
 </template>
