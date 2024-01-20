@@ -2,7 +2,7 @@
     <div class="h-full py-2">
         <ContentDoc>
             <template v-slot="{doc}">
-                <article class="prose prose-a:text-sapphire prose-strong:text-sapphire  prose-headings:text-sapphire text-pink lg:prose-xl">        
+                <article class="prose prose-sm max-w-5xl prose-a:text-lavender prose-strong:text-lavender  prose-headings:text-lavender text-mauve lg:prose-xl">        
                     <ContentRenderer :value="doc" />
                 </article>
             </template>            
