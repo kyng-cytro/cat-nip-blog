@@ -10,6 +10,11 @@ Get ready for a whisker-tingling adventure into the world of Cat Nip – the mag
 ### 2. [The Great Catsby: A Glimpse into Feline High Society](#the-great-catsby)
 Step into the world of high society with Whiskersworth III and Lady Fluffington as they navigate the glittering ballrooms of the grand chateau in "The Great Catsby."
 
+## TODO
+
+- [ ] add theme switcher
+- [ ] add more funny posts
+
 ## Contributing
 
 We welcome contributions from the feline community! If you have a funny tale, a whisker-tingling story, or a pun that will make us roll on the floor, feel free to contribute. Just fork the repository, create a branch, and submit a pull request.
