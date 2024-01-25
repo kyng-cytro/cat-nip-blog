@@ -5,9 +5,12 @@
       <Icon name="solar:cat-broken" height="25" width="25"/>
       <h2 class="font-semibold text-lg tracking-tighter leading-none">NIP</h2>
     </NuxtLink>
-    <NuxtLink target="_blank" to="https://github.com/kyng-cytro/cat-nip-blog" >
-      <Icon name="uil:github" height="25" width="25"/>
-    </NuxtLink>
+    <div class="flex gap-3">
+      <ThemeSwitcher />
+      <NuxtLink target="_blank" to="https://github.com/kyng-cytro/cat-nip-blog" >
+        <Icon name="uil:github" height="25" width="25"/>
+      </NuxtLink>
+    </div>
   </div>
   </nav>  
 </template>

@@ -12,7 +12,7 @@ Step into the world of high society with Whiskersworth III and Lady Fluffington 
 
 ## TODO
 
-- [ ] add theme switcher
+- [x] add theme switcher
 - [ ] add more funny posts
 
 ## Contributing
